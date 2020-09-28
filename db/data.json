@@ -1,1 +1,18 @@
-[{"descripcion":"Comer","completado":false},{"descripcion":"Pasear al perro","completado":true},{"descripcion":"Tener una buena vida","completado":true}]
+[
+    {
+        "descripcion": "Pasear al perro",
+        "completado": true
+    },
+    {
+        "descripcion": "Tener una buena vida",
+        "completado": true
+    },
+    {
+        "descripcion": "Obtener un excelente trabajo",
+        "completado": true
+    },
+    {
+        "descripcion": "Vivir muy bien",
+        "completado": true
+    }
+]
